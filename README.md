@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou Ana Liz — Estudante.
-🎓 Estudante de Engenharia de Software com foco em CPS, Segurança da Informação e suas aplicações na Indústria 4.0, sistemas embarcados, automação, redes de sensores e segurança em dispositivos conectados.
+🎓 Estudante de Engenharia de Software com foco em sistemas embarcados, automação, redes de sensores e segurança em dispositivos conectados.
 
 ## 🧠 Áreas de Interesse
 - 🔗 Internet das Coisas (IoT)
